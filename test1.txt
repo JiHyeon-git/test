@@ -39,7 +39,7 @@ DayType_None
 
 
 
-상자별 순차 시작
+상자별 순차papa 시작
 + ITEMBOX_DELAY_EACH * i 번째 상자
 + 
 
