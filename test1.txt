@@ -1,0 +1,55 @@
+
+TIPS & TRICKS
+1. Load game assets frame by frame.
+2. Reduce draw calls: Use CCSpriteBatchNode.
+3. Load textures from largest to smallest.
+4. Avoid high memory peak.
+5. Use loading screen to preload game resources.
+6. Release unused resources when needed
+7. Release cached resource when received memory warnings.
+8. use texturePacker to optimize texture’s size,format, color depth and so on.
+9. Be careful to use JPGs!
+10. Use 16-bit textures with RBGA4444 color depth.
+11. Use NPOT textures instead of POT textures.
+12. Avoid loading texture of huge size.
+
+
+
+
+onAppearNPC
+
+timeline name
+
+./Configure linux-armv4 -march=armv6 -D__ARM_MAX_ARCH__=8
+
+
+
+
+
+
+
+기간 포함
+m_time_t_InTime
+
+특정 요일
+DayType_None
+
+이전이랑 똑같으면 pass
+다음 거 없으면 뚝 사라짐
+
+
+
+상자별 순차 시작
++ ITEMBOX_DELAY_EACH * i 번째 상자
++ 
+
+
+MaxLevelTextBMF
+
+
+
+
+
+
+
+
